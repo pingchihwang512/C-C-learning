@@ -1,7 +1,7 @@
 # C and Cpp learning
 
 Here are the essential C and C++ Concepts
-* Array Basics
+* [Array Basics](https://github.com/pingchihwang512/C-and-Cpp-learning/tree/main/01_Array)
 * Structures
 * Pointers
 * Reference
