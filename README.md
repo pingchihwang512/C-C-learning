@@ -11,4 +11,4 @@ Here are the essential C and C++ Concepts
 * Array as Parameter
 * Structure as Parameter
 * Structure and Function
-* Converting a C program to  
+* Converting a C program to Cpp class
