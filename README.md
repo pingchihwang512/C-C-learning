@@ -12,3 +12,4 @@ Here are the essential C and C++ Concepts
 * [Structure as Parameter](https://github.com/pingchihwang512/C-and-Cpp-learning/tree/main/09_Structure%20as%20Parameter)
 * [Structure and Function](https://github.com/pingchihwang512/C-and-Cpp-learning/tree/main/10_Structure%20and%20Function)
 * [Converting a C program to Cpp class](https://github.com/pingchihwang512/C-and-Cpp-learning/tree/main/11_Converting%20a%20C%20program%20to%20a%20C%2B%2B%20class)
+* [Template Class](https://github.com/pingchihwang512/C-and-Cpp-learning/tree/main/11_Converting%20a%20C%20program%20to%20a%20C%2B%2B%20class)
